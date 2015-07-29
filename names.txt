@@ -69,7 +69,7 @@
 | 66 | Maha Ibrahim Mohamed Heikal                   |      |
 | 67 | Mai Ibrahim Hussien Mohamed Aly Eissa         |      |
 | 68 | Mina Makram Louis Eldheeby                    |      |
-| 69 | Nada Salah Mahmoud Osman                      |      |
+| 69 | Nada Salah Mahmoud Osman                      | Yes  |
 | 70 | Nesma Emad Eldeen Ibrahim Nasser              |      |
 | 71 | Norhan Mohamed Ahmed Mohamed Radwan           |      |
 | 72 | Hashem Hossam Mahmoud Mohamed Mostafa         |      |
